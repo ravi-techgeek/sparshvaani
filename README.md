@@ -32,3 +32,7 @@ We welcome contributions! If you have ideas for new features, better UI/UX for a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Dedicated to the developer's niece and all children fighting similar battles.
