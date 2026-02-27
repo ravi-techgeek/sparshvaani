@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Dedicated to the developer's niece and all children fighting similar battles.
+Dedicated to all children fighting similar battles.
